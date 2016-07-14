@@ -1,2 +1,2 @@
-# kovax
+# KoVaX
 cross platform video editor.
